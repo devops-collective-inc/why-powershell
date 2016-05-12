@@ -1,0 +1,9 @@
+# Where can you learn more?
+
+There is a wealth of information on PowerShell.
+
+* Start at [PowerShell.org](http://powershell.org), a community-owned and -operated web site that hosts a friendly Q&A forum. The organization also offers numerous [free ebooks](http://powershell.org/wp/ebooks), runs the annual [PowerShell Summit](http://powershellsummit.org) event in North America and Europe, hosts a DSC GitHub repository, runs an annual Scripting Games contest, and much more.
+* Anyone with development or scripting experience should pick up [PowerShell in Action v2](http://www.manning.com/payette2/). It’s written by the co-designer and principle author of PowerShell, Bruce Payette, and is the standard reference. It provides the best depth you will get short of verbose articles on the web, gives insight into some of the design decisions behind the language, and is perfectly applicable today despite being written for PowerShell v2. Windows PowerShell for Developers is more narrowly focused but a good read for the experienced.
+* Those without scripting or development experience might want to start with lighter reading, such as [Learn Windows PowerShell in a Month of Lunches](http://manning.com/jones3/).
+* Want to learn on the fly? PowerShell includes everything you need to learn directly from the shell. Get-Command, Get-Help, Get-Member, and Select-Object will get you exploring and learning PowerShell.
+* Prefer videos? Product inventor Jeffrey Snover and Jason Helmick hosted two free PowerShell sessions that have proven quite popular: [Getting Started with PowerShell 3.0](http://channel9.msdn.com/Series/GetStartedPowerShell3) and [Advanced Tools and Scripting with PowerShell 3.0](http://channel9.msdn.com/Series/advpowershell3). Or, check out the [PowerShell.org YouTube channel](http://youtube.com/powershellorg), featuring technical videos and session records from every PowerShell Summit event.
