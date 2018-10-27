@@ -16,7 +16,7 @@ Windows is not text based. Sooner or later you will need to do something that yo
 
 The moral here is that PowerShell is the best "glue" Microsoft has ever provided us for tying together disparate systems. It's better than previous Windows-based shells because it understands, and works with, the API-based nature of Windows itself, which is vastly different from what previous text-based shells did.
 
-##PowerShell is object-based.
+## PowerShell is object-based.
 This gives us incredible flexibility. Filter, sort, measure, group, compare or take other actions on objects as they pass through the pipeline. Work with properties and methods rather than raw text.
 
 If you have spent time deciphering and programmatically working with text based output, you know how frustrating it can be. What delimiter do I split on? Is there even a delimiter? What if a particular result has a blank entry for a column? Do I need to count characters in each column? Will this count vary depending on the output? With objects, this is all done for you, and makes it quite simple to tie together commands and data across various technologies.

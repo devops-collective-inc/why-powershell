@@ -1,6 +1,6 @@
 # A Brief Overview
 
-PowerShell etnhusiasts often find themselves explaining why someone with responsibilities on the Microsoft side of the IT shop should learn PowerShell. We decided to write this as a reference going forward.
+PowerShell enthusiasts often find themselves explaining why someone with responsibilities on the Microsoft side of the IT shop should learn PowerShell. We decided to write this as a reference going forward.
 
 We won’t be arguing for PowerShell over other Microsoft languages such as VBScript or batch, or general purpose languages such as Python or Perl. There is a place for all of these languages, but if you work with the Microsoft and surrounding ecosystems, PowerShell is an important language to learn.
 
